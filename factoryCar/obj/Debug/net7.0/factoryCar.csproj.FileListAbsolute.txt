@@ -1,0 +1,15 @@
+C:\Projetos_Estudo\patterns\factoryCar\bin\Debug\net7.0\factoryCar.exe
+C:\Projetos_Estudo\patterns\factoryCar\bin\Debug\net7.0\factoryCar.deps.json
+C:\Projetos_Estudo\patterns\factoryCar\bin\Debug\net7.0\factoryCar.runtimeconfig.json
+C:\Projetos_Estudo\patterns\factoryCar\bin\Debug\net7.0\factoryCar.dll
+C:\Projetos_Estudo\patterns\factoryCar\bin\Debug\net7.0\factoryCar.pdb
+C:\Projetos_Estudo\patterns\factoryCar\obj\Debug\net7.0\factoryCar.csproj.AssemblyReference.cache
+C:\Projetos_Estudo\patterns\factoryCar\obj\Debug\net7.0\factoryCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Estudo\patterns\factoryCar\obj\Debug\net7.0\factoryCar.AssemblyInfoInputs.cache
+C:\Projetos_Estudo\patterns\factoryCar\obj\Debug\net7.0\factoryCar.AssemblyInfo.cs
+C:\Projetos_Estudo\patterns\factoryCar\obj\Debug\net7.0\factoryCar.csproj.CoreCompileInputs.cache
+C:\Projetos_Estudo\patterns\factoryCar\obj\Debug\net7.0\factoryCar.dll
+C:\Projetos_Estudo\patterns\factoryCar\obj\Debug\net7.0\refint\factoryCar.dll
+C:\Projetos_Estudo\patterns\factoryCar\obj\Debug\net7.0\factoryCar.pdb
+C:\Projetos_Estudo\patterns\factoryCar\obj\Debug\net7.0\factoryCar.genruntimeconfig.cache
+C:\Projetos_Estudo\patterns\factoryCar\obj\Debug\net7.0\ref\factoryCar.dll

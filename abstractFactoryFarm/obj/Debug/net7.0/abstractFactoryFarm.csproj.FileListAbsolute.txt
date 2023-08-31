@@ -1,0 +1,15 @@
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\bin\Debug\net7.0\abstractFactoryFarm.exe
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\bin\Debug\net7.0\abstractFactoryFarm.deps.json
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\bin\Debug\net7.0\abstractFactoryFarm.runtimeconfig.json
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\bin\Debug\net7.0\abstractFactoryFarm.dll
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\bin\Debug\net7.0\abstractFactoryFarm.pdb
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\obj\Debug\net7.0\abstractFactoryFarm.csproj.AssemblyReference.cache
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\obj\Debug\net7.0\abstractFactoryFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\obj\Debug\net7.0\abstractFactoryFarm.AssemblyInfoInputs.cache
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\obj\Debug\net7.0\abstractFactoryFarm.AssemblyInfo.cs
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\obj\Debug\net7.0\abstractFactoryFarm.csproj.CoreCompileInputs.cache
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\obj\Debug\net7.0\abstractFactoryFarm.dll
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\obj\Debug\net7.0\refint\abstractFactoryFarm.dll
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\obj\Debug\net7.0\abstractFactoryFarm.pdb
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\obj\Debug\net7.0\abstractFactoryFarm.genruntimeconfig.cache
+C:\Projetos_Estudo\patterns\abstractFactoryFarm\obj\Debug\net7.0\ref\abstractFactoryFarm.dll

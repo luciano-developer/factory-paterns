@@ -1,0 +1,15 @@
+C:\Projetos_Estudo\patterns\factoryMethodPayment\bin\Debug\net7.0\factoryMethodPayment.exe
+C:\Projetos_Estudo\patterns\factoryMethodPayment\bin\Debug\net7.0\factoryMethodPayment.deps.json
+C:\Projetos_Estudo\patterns\factoryMethodPayment\bin\Debug\net7.0\factoryMethodPayment.runtimeconfig.json
+C:\Projetos_Estudo\patterns\factoryMethodPayment\bin\Debug\net7.0\factoryMethodPayment.dll
+C:\Projetos_Estudo\patterns\factoryMethodPayment\bin\Debug\net7.0\factoryMethodPayment.pdb
+C:\Projetos_Estudo\patterns\factoryMethodPayment\obj\Debug\net7.0\factoryMethodPayment.csproj.AssemblyReference.cache
+C:\Projetos_Estudo\patterns\factoryMethodPayment\obj\Debug\net7.0\factoryMethodPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Estudo\patterns\factoryMethodPayment\obj\Debug\net7.0\factoryMethodPayment.AssemblyInfoInputs.cache
+C:\Projetos_Estudo\patterns\factoryMethodPayment\obj\Debug\net7.0\factoryMethodPayment.AssemblyInfo.cs
+C:\Projetos_Estudo\patterns\factoryMethodPayment\obj\Debug\net7.0\factoryMethodPayment.csproj.CoreCompileInputs.cache
+C:\Projetos_Estudo\patterns\factoryMethodPayment\obj\Debug\net7.0\factoryMethodPayment.dll
+C:\Projetos_Estudo\patterns\factoryMethodPayment\obj\Debug\net7.0\refint\factoryMethodPayment.dll
+C:\Projetos_Estudo\patterns\factoryMethodPayment\obj\Debug\net7.0\factoryMethodPayment.pdb
+C:\Projetos_Estudo\patterns\factoryMethodPayment\obj\Debug\net7.0\factoryMethodPayment.genruntimeconfig.cache
+C:\Projetos_Estudo\patterns\factoryMethodPayment\obj\Debug\net7.0\ref\factoryMethodPayment.dll

@@ -1,0 +1,15 @@
+C:\Projetos_Estudo\patterns\factory\obj\Debug\net7.0\factory.csproj.AssemblyReference.cache
+C:\Projetos_Estudo\patterns\factory\obj\Debug\net7.0\factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Estudo\patterns\factory\obj\Debug\net7.0\factory.AssemblyInfoInputs.cache
+C:\Projetos_Estudo\patterns\factory\obj\Debug\net7.0\factory.AssemblyInfo.cs
+C:\Projetos_Estudo\patterns\factory\obj\Debug\net7.0\factory.csproj.CoreCompileInputs.cache
+C:\Projetos_Estudo\patterns\factory\bin\Debug\net7.0\factory.exe
+C:\Projetos_Estudo\patterns\factory\bin\Debug\net7.0\factory.deps.json
+C:\Projetos_Estudo\patterns\factory\bin\Debug\net7.0\factory.runtimeconfig.json
+C:\Projetos_Estudo\patterns\factory\bin\Debug\net7.0\factory.dll
+C:\Projetos_Estudo\patterns\factory\bin\Debug\net7.0\factory.pdb
+C:\Projetos_Estudo\patterns\factory\obj\Debug\net7.0\factory.dll
+C:\Projetos_Estudo\patterns\factory\obj\Debug\net7.0\refint\factory.dll
+C:\Projetos_Estudo\patterns\factory\obj\Debug\net7.0\factory.pdb
+C:\Projetos_Estudo\patterns\factory\obj\Debug\net7.0\factory.genruntimeconfig.cache
+C:\Projetos_Estudo\patterns\factory\obj\Debug\net7.0\ref\factory.dll

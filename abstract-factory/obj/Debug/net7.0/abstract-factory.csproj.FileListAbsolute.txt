@@ -1,0 +1,15 @@
+C:\Projetos_Estudo\patterns\abstract-factory\obj\Debug\net7.0\abstract-factory.csproj.AssemblyReference.cache
+C:\Projetos_Estudo\patterns\abstract-factory\obj\Debug\net7.0\abstract-factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Estudo\patterns\abstract-factory\obj\Debug\net7.0\abstract-factory.AssemblyInfoInputs.cache
+C:\Projetos_Estudo\patterns\abstract-factory\obj\Debug\net7.0\abstract-factory.AssemblyInfo.cs
+C:\Projetos_Estudo\patterns\abstract-factory\obj\Debug\net7.0\abstract-factory.csproj.CoreCompileInputs.cache
+C:\Projetos_Estudo\patterns\abstract-factory\bin\Debug\net7.0\abstract-factory.deps.json
+C:\Projetos_Estudo\patterns\abstract-factory\bin\Debug\net7.0\abstract-factory.dll
+C:\Projetos_Estudo\patterns\abstract-factory\bin\Debug\net7.0\abstract-factory.pdb
+C:\Projetos_Estudo\patterns\abstract-factory\obj\Debug\net7.0\abstract-factory.dll
+C:\Projetos_Estudo\patterns\abstract-factory\obj\Debug\net7.0\refint\abstract-factory.dll
+C:\Projetos_Estudo\patterns\abstract-factory\obj\Debug\net7.0\abstract-factory.pdb
+C:\Projetos_Estudo\patterns\abstract-factory\obj\Debug\net7.0\ref\abstract-factory.dll
+C:\Projetos_Estudo\patterns\abstract-factory\bin\Debug\net7.0\abstract-factory.exe
+C:\Projetos_Estudo\patterns\abstract-factory\bin\Debug\net7.0\abstract-factory.runtimeconfig.json
+C:\Projetos_Estudo\patterns\abstract-factory\obj\Debug\net7.0\abstract-factory.genruntimeconfig.cache

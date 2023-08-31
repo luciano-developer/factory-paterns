@@ -1,0 +1,15 @@
+C:\Projetos_Estudo\patterns\factoryMethodPizza\bin\Debug\net7.0\factoryMethodPizza.exe
+C:\Projetos_Estudo\patterns\factoryMethodPizza\bin\Debug\net7.0\factoryMethodPizza.deps.json
+C:\Projetos_Estudo\patterns\factoryMethodPizza\bin\Debug\net7.0\factoryMethodPizza.runtimeconfig.json
+C:\Projetos_Estudo\patterns\factoryMethodPizza\bin\Debug\net7.0\factoryMethodPizza.dll
+C:\Projetos_Estudo\patterns\factoryMethodPizza\bin\Debug\net7.0\factoryMethodPizza.pdb
+C:\Projetos_Estudo\patterns\factoryMethodPizza\obj\Debug\net7.0\factoryMethodPizza.csproj.AssemblyReference.cache
+C:\Projetos_Estudo\patterns\factoryMethodPizza\obj\Debug\net7.0\factoryMethodPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Estudo\patterns\factoryMethodPizza\obj\Debug\net7.0\factoryMethodPizza.AssemblyInfoInputs.cache
+C:\Projetos_Estudo\patterns\factoryMethodPizza\obj\Debug\net7.0\factoryMethodPizza.AssemblyInfo.cs
+C:\Projetos_Estudo\patterns\factoryMethodPizza\obj\Debug\net7.0\factoryMethodPizza.csproj.CoreCompileInputs.cache
+C:\Projetos_Estudo\patterns\factoryMethodPizza\obj\Debug\net7.0\factoryMethodPizza.dll
+C:\Projetos_Estudo\patterns\factoryMethodPizza\obj\Debug\net7.0\refint\factoryMethodPizza.dll
+C:\Projetos_Estudo\patterns\factoryMethodPizza\obj\Debug\net7.0\factoryMethodPizza.pdb
+C:\Projetos_Estudo\patterns\factoryMethodPizza\obj\Debug\net7.0\factoryMethodPizza.genruntimeconfig.cache
+C:\Projetos_Estudo\patterns\factoryMethodPizza\obj\Debug\net7.0\ref\factoryMethodPizza.dll

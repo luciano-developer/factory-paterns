@@ -1,0 +1,4 @@
+{
+    "editor.formatOnSave": true
+    //"dotnet.defaultSolution": "abstract-factory/abstract-factory.sln"
+}
